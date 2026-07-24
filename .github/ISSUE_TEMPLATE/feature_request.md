@@ -1,34 +1,30 @@
 ---
-name: Feature Request
-about: Suggest a new feature or improvement
-title: "[FEATURE] "
-labels: enhancement
-assignees: ''
+name: Feature request
+description: Propose a scoped feature or improvement
+title: "[Feature]: "
+labels: ["enhancement", "needs-spec"]
 ---
 
-## Summary
+# Feature request
 
-A clear and concise description of the feature you are requesting.
+## Business goal
 
-## Problem / Motivation
+## Users / roles affected
 
-Describe the problem this feature solves or the use case it enables.
-_Example: "As a [role], I need to [do something] so that [benefit]."_
+## Current behavior
 
-## Proposed Solution
+## Proposed behavior
 
-Describe the solution you would like. Include mockups, flow descriptions, or references to similar features if helpful.
+## In scope
 
-## Alternatives Considered
+## Out of scope
 
-A clear and concise description of any alternative solutions or features you have considered and why they were ruled out.
+## Acceptance criteria
 
-## Acceptance Criteria
+## AppSource and upgrade risk
 
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] Criterion 3
+## Test scenarios
 
-## Additional Context
+## Documentation impact
 
-Add any other context, screenshots, or references about the feature request here.
+## Open questions

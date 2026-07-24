@@ -1,44 +1,24 @@
 ---
-name: Copilot Task
-about: Describe a task for GitHub Copilot Coding Agent to implement
-title: "[COPILOT] "
-labels: copilot
-assignees: ''
+name: Copilot task
+description: Create a well-scoped task for GitHub Copilot
+title: "[Copilot Task]: "
+labels: ["copilot", "needs-review"]
 ---
 
-## Task Description
+# Copilot task
 
-A clear and concise description of what you want Copilot to implement, fix, or refactor.
+## Task type
 
-## Context & Background
+## Scope
 
-Provide relevant background information so Copilot understands the domain and codebase context.
+## Files or areas likely involved
 
-- **Repository / Module:** <!-- e.g. NorCom.Sales, NorCom.Finance -->
-- **Related issues / PRs:** <!-- Link any related work -->
-- **BC Version / App Version:** <!-- e.g. Business Central 25.0 -->
+## Required context
 
-## Scope of Changes
+## Acceptance criteria
 
-Describe which files, objects, or areas of the codebase should be touched.
+## Constraints
 
-- [ ] File / object 1
-- [ ] File / object 2
+## Verification required
 
-## Acceptance Criteria
-
-Define "done" clearly so Copilot can self-validate its output.
-
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] All existing tests pass
-
-## Constraints & Guidance
-
-- Coding standards to follow (e.g. AL Guidelines, naming conventions)
-- Things Copilot should **not** change
-- Any known pitfalls or edge cases to handle
-
-## References
-
-- Link to design docs, API specs, or related issues
+## Notes for reviewer

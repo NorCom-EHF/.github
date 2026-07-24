@@ -1,43 +1,35 @@
-## Description
+# Pull request
 
-<!-- Summarize the changes in this PR and the motivation behind them. -->
+## Summary
 
-## Related Issue(s)
+## Linked issue / feature spec
 
-<!-- Link to the issue(s) this PR addresses. Use "Closes #<issue>" to auto-close. -->
-Closes #
+## Type of change
 
-## Type of Change
+## Scope control
+- [ ] Change is limited to the described scope.
+- [ ] No unrelated refactoring was included.
 
-- [ ] Bug fix (non-breaking change that fixes an issue)
-- [ ] New feature (non-breaking change that adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
-- [ ] Refactoring / code quality improvement
-- [ ] Documentation update
-- [ ] Other (describe):
+## AppSource safety
+- [ ] App ID unchanged.
+- [ ] Publisher unchanged.
+- [ ] App name unchanged.
+- [ ] Object ranges unchanged.
+- [ ] Affixes/namespaces/dependencies/permissions reviewed.
 
-## How Has This Been Tested?
+## Tests and validation
+- [ ] Build/compile completed.
+- [ ] Relevant tests passed or limitations are documented.
 
-<!-- Describe the tests you ran and how to reproduce them. -->
+## External guidance used
+- [ ] BC Code Intelligence used where relevant.
+- [ ] BCQuality used where relevant.
+- [ ] Microsoft documentation checked where platform behavior was unclear.
+- [ ] Not applicable.
 
-- [ ] Unit tests
-- [ ] Integration / scenario tests
-- [ ] Manual testing (describe steps below)
+## Documentation and release notes
 
-**Test steps:**
+## Security and secrets
+- [ ] No secrets, tokens, passwords, connection strings, or credentials added.
 
-1.
-2.
-
-## Checklist
-
-- [ ] My code follows the team's coding standards and AL Guidelines
-- [ ] I have performed a self-review of my code
-- [ ] I have added or updated tests that prove my fix / feature works
-- [ ] All new and existing tests pass locally
-- [ ] I have updated relevant documentation (if applicable)
-- [ ] No secrets, credentials, or sensitive data are included in this PR
-
-## Screenshots (if applicable)
-
-<!-- Add screenshots to illustrate UI or behavioral changes. -->
+## Reviewer notes
