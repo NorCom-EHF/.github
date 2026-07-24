@@ -20,6 +20,7 @@ labels: ["bug", "needs-triage"]
 ## Evidence
 
 ## Scope and risk
+
 - [ ] User-visible behavior
 - [ ] AppSource compatibility risk
 - [ ] Data model or upgrade risk
@@ -28,3 +29,8 @@ labels: ["bug", "needs-triage"]
 - [ ] Unknown
 
 ## Test expectation
+
+---
+
+> **NorCom SDD note:** For app repositories using NorCom SDD, convert accepted bug reports into:
+> `NORCOM.agent/bugs/<bug-name>/bug-report.md`

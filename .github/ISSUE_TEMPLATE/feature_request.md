@@ -28,3 +28,8 @@ labels: ["enhancement", "needs-spec"]
 ## Documentation impact
 
 ## Open questions
+
+---
+
+> **NorCom SDD note:** For app repositories using NorCom SDD, convert accepted feature requests into:
+> `NORCOM.agent/features/<feature-name>/feature-spec.md`

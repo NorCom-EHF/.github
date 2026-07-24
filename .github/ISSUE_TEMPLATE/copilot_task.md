@@ -19,6 +19,8 @@ labels: ["copilot", "needs-review"]
 
 ## Constraints
 
+> **Do not implement vague tasks without a feature specification, bug report, or acceptance criteria.**
+
 ## Verification required
 
 ## Notes for reviewer
